@@ -1,7 +1,7 @@
 hello hxl! hello git! master testmerge1
 hello hxl! hello git! hot-fix testmerge1
 hello hxl! hello git! master testmerge2
-hello hxl! hello git!
+hello hxl! hello git! hot-fix testmerge2
 hello hxl! hello git!
 hello hxl! hello git!
 hello hxl! hello git!
