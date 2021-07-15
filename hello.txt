@@ -1,4 +1,4 @@
-hello hxl! hello git!
+hello hxl! hello git! master testmerge1
 hello hxl! hello git!
 hello hxl! hello git!
 hello hxl! hello git!
